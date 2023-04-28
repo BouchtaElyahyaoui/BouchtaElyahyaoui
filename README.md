@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **EPANWE**
+- 🔭 I’m currently working on **INTRADAY**
 
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning **Three Js**
 
-- 💬 Ask me about **Laravel , Vue js**
+- 💬 Ask me about **React , Next , Spring Boot . **
 
 - 📫 How to reach me **bouchtaelyahyaoui2264@gmail.com**
 
