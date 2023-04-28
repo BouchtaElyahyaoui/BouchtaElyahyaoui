@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Three Js**
 
-- 💬 Ask me about **React , Next , Spring Boot . **
+- 💬 Ask me about **React , Next , Spring Boot .**
 
 - 📫 How to reach me **bouchtaelyahyaoui2264@gmail.com**
 
