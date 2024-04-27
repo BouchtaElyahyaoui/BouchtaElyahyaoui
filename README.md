@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **INTRADAY**
+- 🔭 I’m currently working on **Mahaal**
 
-- 🌱 I’m currently learning **Three Js**
+- 🌱 I’m currently learning **Node JS**
 
 - 💬 Ask me about **React , Next , Spring Boot .**
 
